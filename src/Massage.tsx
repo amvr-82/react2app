@@ -2,4 +2,4 @@ function Massage() {
   return <h1>hello</h1>;
 }
 
-Massage();
+export default Massage;
